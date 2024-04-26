@@ -5,32 +5,29 @@
 
 DESCRIPTION
 
-**Background** 
+**Business Scenario** 
 
-According to capital Asset Pricing Model, the slope coefficient Beta (B1) in a simple regression of
-the excess return on the stock (eg. app%change) vs. the stock return on the market (S&P%change) is
-a measure of relative risk of the stock.
-Stocks with higher Betas are more risky and therefore should have higher returns in the market.
+You are the head of sales for a retail products company. The company wants
+to increase its business across regions. Your task is to examine Customer
+Statistics, which comprise the number of customers, product sales, product
+quantity, sales per customer, profit, and profit per customer. You should be
+able to see customer sales rank, as well as sales and profit by customer,
+rapidly. The purpose is to compare statistics across different regions. You will
+organize this sales approach across regions based on these figures.
 
 **Objective**
 
-Provide a comparative descriptive statistics on the price valued of each stock
-displaying charts to show the trend of each stock between (2018 - 2023)
-Include charts like scatter plot, histogram etc to show the price trend of the
-stock value.
-Include the value of descriptive stats like mean, median, deviation etc. 
+The goal is to create a dashboard for visualizing Customer statistics, customer
+sales rank, and sales and profit by region.
+The project aims to evaluate various aspects of customer statistics, such as the total number of customers, product sales, product quantity, sales per customer, profit, and profitability per customer. 
+Moreover, the project will focus on determining correlation between sales and profit by customer as well the Customer Sales Rank, involving client’s performance examination and prioritization.
 
-**Domain:**  Finance
 
 **Dataset Description**
 
-We will be using StatisticsProjectStockDataset.xlsx Dataset attached.<br>
-Given here are the live data stock values of 3 major companies Miscrosoft, Apple and Tesla. Their
-live data have been extracted from the website of Yahoo Finance. The dataset contains their stock
-values between 2018 and 2023 on daily basis. The dataset also contain S&P 500 values as well,
-during the same time period. Here the percentage change in stock values has been calculated for
-each stock and is presented in the table as %change variable.
-Standardized names have been assigned to the %change of each company, like MS%change.
-SP_500 is a stcok market index, tracking the stock performance of 500 large companies listed on
-the stock exchange in the United States including (Microsoft, Apple, Tesla, etc).
+We will be using Sample - Superstore_Project.xls Dataset attached.<br>
+The dataset is in the form of small retail business located in the United States which is in the business of selling furniture, Office Supplies and Technology products etc.
+The dataset composed by 3 tables: Orders, Peoples and Returns. For this analysis it was used only the Orders table, to extract the insights and create the visualization. 
+This table is consisting of 21 columns and 9994 rows. 
+
 
