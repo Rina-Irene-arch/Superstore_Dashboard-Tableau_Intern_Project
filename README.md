@@ -1,6 +1,6 @@
 # Superstore data visualization with Tableau 
 -------------------------------------------------------------
-[Sample Superstore Dashboard] (https://public.tableau.com/app/profile/irene.rafalski/viz/SampleSuperstore-OESONInternshipProject/SampleSuperstoreDashboard?publish=yes)
+[Sample Superstore Dashboard](https://public.tableau.com/app/profile/irene.rafalski/viz/SampleSuperstore-OESONInternshipProject/SampleSuperstoreDashboard?publish=yes)
 -------------------------------------------------------------
 
 DESCRIPTION
