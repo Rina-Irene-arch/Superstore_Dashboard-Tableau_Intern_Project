@@ -29,7 +29,7 @@ The dataset is in the form of small retail business located in the United States
 The dataset composed by 3 tables: Orders, Peoples and Returns. For this analysis it was used only the Orders table, to extract the insights and create the visualization. 
 This table is consisting of 21 columns and 9994 rows. 
 
-**[Exploratory Data Analysis](Superstore_Tableau_Project_Insights.pdf)**
+**[Superstore Tableau Project Insights](Superstore_Tableau_Project_Insights.pdf)**
 
 
 
